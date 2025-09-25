@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorprofetic)](https://github.com/SrGobi/github-readme-stats)
